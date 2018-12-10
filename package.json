@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "sitemap": "node scripts/sitemap"
+  },
+  "devDependencies": {
+    "sitemap": "^2.1.0"
+  }
+}
